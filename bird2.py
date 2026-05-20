@@ -13,7 +13,7 @@ screen_height = 936
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption('Flappy Bird')
 
-
+#font = pygame.font.Font('img/Grand9K Pixel.ttf', 50)
 font = pygame.font.SysFont('Grand9K Pixel', 50)
 font.set_bold(True) 
 
